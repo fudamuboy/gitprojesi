@@ -1,0 +1,21 @@
+{
+    "MALI": [
+        {
+            "isim": "DJENE ULU CAMI",
+            "aciklama": "Dünyanın en büyük kerpiç camisi olmasının yanında UNESCO'nun Dünya Kültür Mirası listesinde yer alıyor ",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/-rnek/main/kunefe.jpg"
+        },
+        {
+            "isim": "MÜZE",
+            "aciklama": "Mali Ulusal Müzesi (National Museum of Mali), ahşap heykelleri masklar ile Orta Çağ ve Afrika’nın eski dönemlerinden kalma ipekli kumaşlar gibi el sanatlarının sergilendiği bir sanat mekânı.",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/-rnek/main/mosque.jpg"
+        },
+        {
+            "isim": "YASSA",
+            "aciklama": "Marul, soğan, limon suyu ve baharatlarla marine edilmiş tavuk veya etten oluşan bir yemektir. Mali'nin popüler bir et yemeğidir.",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/-rnek/main/besikli_magarasi.jpg"
+        }
+       
+    ]
+    
+}
